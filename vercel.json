@@ -1,8 +1,1 @@
-{
-  "routes": [
-    { "src": "/", "dest": "/" },
-    { "src": "/login", "dest": "/" },
-    { "src": "/admin", "dest": "/" },
-    { "src": "/users", "dest": "/" }
-  ]
-}
+
